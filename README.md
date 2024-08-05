@@ -11,7 +11,7 @@
     </a>
   </div>
 </div>
-<p>I am a Junior Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from Ukraine</p>
+<p>I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from Ukraine</p>
 
 :hammer_and_wrench: Languages and Tools :
 <div>
